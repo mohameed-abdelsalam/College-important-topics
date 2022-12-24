@@ -7,3 +7,6 @@ These topics includding:
 2) Digital communication
 3) Automatic Control system
 4) Data Structure
+4) Embeded systems
+5) DSP
+6) OpenCV (image colorization)
