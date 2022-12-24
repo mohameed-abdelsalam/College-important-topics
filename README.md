@@ -9,4 +9,7 @@ These topics includding:
 4) Data Structure
 4) Embeded systems
 5) DSP
-6) OpenCV (image colorization)
+6) signal processing
+7) OpenCV (image colorization)
+8) logic
+
