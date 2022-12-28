@@ -1,0 +1,27 @@
+
+
+*************** this code to check if palindrome ********** 
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int n ,result=0,q,rem;
+    printf("please enter the num to check it :");
+    scanf("%d",&n);
+    q=n;
+
+    while(q!=0)
+        {
+            rem=q%10;
+            result=result*10+rem;
+            q=q/10;
+        }
+
+    if (result==n)
+        printf("palidrome");
+    else
+        printf("not palindrome");
+    return 0;
+}

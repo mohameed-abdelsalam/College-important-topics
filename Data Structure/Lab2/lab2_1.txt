@@ -1,0 +1,33 @@
+/*
+    printf("Hello world!\n");
+    return 0;
+}
+struct node { 
+    int data;                //Data part 
+    struct node *next;       //Address part 
+}*header;
+ 
+void createList(int n); // Functions to create a list
+int main() 
+{
+    int n;
+    printf("Enter the total number of nodes: ");
+    scanf("%d", &n); createList(n); return 0;
+}
+void createList(int n){ 
+    struct node *newNode, *temp; 
+    int data, i;
+    
+    // A node is created by allocating memory to a structure  
+    newNode = (struct node *)malloc(sizeof(struct node));
+    // If unable to allocate memory for head node  
+    if(newNode == NULL)
+    {
+         printf("Unable to allocate memory.");
+    }
+    else 
+    { 
+        printf("Enter the data of node 1: ");
+        scanf("%d", &data);
+    }}
+    */

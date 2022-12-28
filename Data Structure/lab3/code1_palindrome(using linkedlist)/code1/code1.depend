@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636763119 source:e:\academic\a_3 third year\data structure\labs\lab3\code1_palindrome(using linkedlist)\code1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
