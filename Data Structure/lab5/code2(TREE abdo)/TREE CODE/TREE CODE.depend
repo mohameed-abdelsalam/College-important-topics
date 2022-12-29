@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638799863 source:e:\academic\a_3 third year\data structure\labs\lab5\code2(tree abdo)\tree code\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+

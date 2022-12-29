@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636837897 source:e:\academic\a_3 third year\data structure\labs\lab4\evaluate postfix form\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

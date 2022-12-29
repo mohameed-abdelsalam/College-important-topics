@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638848800 source:e:\academic\a_3 third year\data structure\labs\lab6(bst-avl)\test\test\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<stdbool.h>
+

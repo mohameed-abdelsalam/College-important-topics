@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640533140 source:e:\academic\a_3 third year\data structure\labs\lab9\practice\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
