@@ -1,0 +1,16 @@
+figure(2);
+x=linspace(0,10,1000);
+y1=sin(x)./x;
+subplot(2,2,1);
+plot(x,y1);
+y2=(x-1).^(-2) + x;
+subplot(2,2,2);
+plot(x,y2);
+y3=(x.^2 + 1)./(x.^2 - 4);
+subplot(2,2,3);
+plot(x,y3);
+a=(10-x).^(1/3) - 2 ;
+b=(4-x.^2).^0.5;
+y4=a./b ;
+subplot(2,2,4);
+plot(x,y4);
